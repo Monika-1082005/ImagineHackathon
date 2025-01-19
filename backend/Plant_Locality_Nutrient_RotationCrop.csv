@@ -1,0 +1,201 @@
+Plant,Locality,Nutrient Requirement,RotationCrop
+Barley,Bihar,Low,Mustard
+Barley,Bihar,High,"Mustard, Rice"
+Sorghum,Rajasthan,Low,"Lentil, Soybean"
+Lentil,Madhya Pradesh,Low,"Rice, Mustard"
+Peanut,Haryana,Low,"Barley, Corn"
+Corn,Mumbai,Low,Peanut
+Soybean,Punjab,Medium,"Sorghum, Corn"
+Sorghum,Uttar Pradesh,High,"Lentil, Chickpea"
+Sorghum,Bihar,High,"Chickpea, Lentil"
+Sorghum,Rajasthan,High,Lentil
+Rice,Madhya Pradesh,Low,Lentil
+Corn,Haryana,Low,Wheat
+Soybean,Delhi,Low,"Wheat, Corn"
+Lentil,Uttar Pradesh,High,Corn
+Lentil,Punjab,Low,"Mustard, Rice"
+Sorghum,Delhi,High,"Chickpea, Lentil"
+Corn,Bihar,Medium,"Peanut, Wheat"
+Peanut,Haryana,High,Corn
+Lentil,Rajasthan,High,Corn
+Barley,Punjab,High,Peanut
+Lentil,Uttar Pradesh,Medium,Corn
+Sorghum,Uttar Pradesh,Low,Chickpea
+Rice,Punjab,Low,"Barley, Lentil"
+Peanut,Haryana,High,Barley
+Soybean,Delhi,Medium,"Corn, Wheat"
+Barley,Rajasthan,Medium,Rice
+Soybean,Uttar Pradesh,High,"Wheat, Corn"
+Peanut,Rajasthan,Low,"Wheat, Corn"
+Soybean,Haryana,High,"Sorghum, Corn"
+Barley,Uttar Pradesh,Medium,Mustard
+Wheat,Rajasthan,Medium,"Pea, Chickpea"
+Wheat,Punjab,Medium,"Pea, Chickpea"
+Rice,Delhi,High,Maize
+Rice,Uttar Pradesh,Medium,"Barley, Lentil"
+Corn,Haryana,Medium,"Wheat, Peanut"
+Peanut,Mumbai,Low,"Barley, Wheat"
+Wheat,Punjab,Medium,Chickpea
+Barley,Haryana,Medium,Mustard
+Lentil,Mumbai,High,Rice
+Sorghum,Delhi,Medium,"Soybean, Chickpea"
+Wheat,Haryana,High,"Pea, Lentil"
+Wheat,Uttar Pradesh,Low,"Chickpea, Pea"
+Peanut,Delhi,High,Barley
+Rice,Bihar,High,"Maize, Barley"
+Rice,Delhi,Medium,Barley
+Lentil,Delhi,Low,Rice
+Rice,Haryana,Medium,Lentil
+Rice,Punjab,Low,Lentil
+Soybean,Madhya Pradesh,High,"Sorghum, Wheat"
+Soybean,Mumbai,Medium,Wheat
+Wheat,Bihar,High,Chickpea
+Soybean,Madhya Pradesh,Medium,"Sorghum, Corn"
+Wheat,Uttar Pradesh,Low,"Pea, Lentil"
+Barley,Haryana,Low,"Rice, Peanut"
+Soybean,Mumbai,Low,Wheat
+Corn,Bihar,High,"Soybean, Peanut"
+Rice,Punjab,High,Maize
+Barley,Punjab,High,Peanut
+Wheat,Haryana,High,"Lentil, Pea"
+Soybean,Delhi,Medium,Corn
+Peanut,Punjab,Low,"Barley, Wheat"
+Wheat,Mumbai,Low,Chickpea
+Rice,Haryana,Low,Lentil
+Corn,Rajasthan,Medium,"Peanut, Soybean"
+Barley,Bihar,Low,"Mustard, Peanut"
+Corn,Bihar,Medium,"Wheat, Soybean"
+Wheat,Delhi,High,"Chickpea, Lentil"
+Wheat,Madhya Pradesh,Low,Pea
+Wheat,Uttar Pradesh,Low,"Chickpea, Pea"
+Peanut,Punjab,Low,"Corn, Barley"
+Peanut,Haryana,High,"Wheat, Barley"
+Wheat,Punjab,High,"Pea, Lentil"
+Lentil,Delhi,Medium,Corn
+Sorghum,Delhi,High,Chickpea
+Soybean,Madhya Pradesh,Low,Wheat
+Corn,Madhya Pradesh,Medium,"Soybean, Peanut"
+Barley,Mumbai,High,"Mustard, Peanut"
+Peanut,Haryana,Low,Wheat
+Corn,Mumbai,Low,Peanut
+Rice,Mumbai,Medium,"Maize, Lentil"
+Corn,Punjab,High,Soybean
+Corn,Haryana,Low,Wheat
+Sorghum,Rajasthan,Medium,Soybean
+Wheat,Uttar Pradesh,Medium,Pea
+Peanut,Bihar,Medium,Wheat
+Sorghum,Bihar,Low,"Soybean, Chickpea"
+Sorghum,Rajasthan,High,"Soybean, Chickpea"
+Wheat,Bihar,Medium,"Chickpea, Lentil"
+Barley,Delhi,High,Peanut
+Corn,Mumbai,High,Wheat
+Rice,Madhya Pradesh,High,Barley
+Corn,Rajasthan,High,Wheat
+Corn,Uttar Pradesh,High,"Wheat, Peanut"
+Peanut,Delhi,Medium,"Wheat, Corn"
+Wheat,Punjab,High,Chickpea
+Soybean,Uttar Pradesh,Medium,Corn
+Sorghum,Haryana,Low,Lentil
+Rice,Punjab,Low,"Barley, Maize"
+Sorghum,Mumbai,Low,Lentil
+Wheat,Rajasthan,Low,Chickpea
+Lentil,Uttar Pradesh,Medium,"Corn, Mustard"
+Corn,Rajasthan,High,Soybean
+Corn,Rajasthan,Medium,"Soybean, Wheat"
+Peanut,Madhya Pradesh,Medium,Corn
+Lentil,Madhya Pradesh,High,"Corn, Rice"
+Soybean,Haryana,Low,Sorghum
+Barley,Punjab,Low,"Peanut, Mustard"
+Sorghum,Delhi,High,"Soybean, Lentil"
+Corn,Uttar Pradesh,Medium,Soybean
+Lentil,Uttar Pradesh,High,"Corn, Rice"
+Soybean,Rajasthan,High,Wheat
+Wheat,Uttar Pradesh,High,Chickpea
+Wheat,Haryana,Medium,"Chickpea, Lentil"
+Peanut,Punjab,Medium,"Wheat, Barley"
+Peanut,Rajasthan,Low,"Wheat, Corn"
+Sorghum,Uttar Pradesh,Medium,Lentil
+Rice,Bihar,High,"Barley, Lentil"
+Barley,Haryana,Medium,"Peanut, Rice"
+Soybean,Madhya Pradesh,Medium,Corn
+Wheat,Delhi,Low,Chickpea
+Lentil,Madhya Pradesh,Medium,"Rice, Mustard"
+Lentil,Punjab,Medium,"Mustard, Rice"
+Corn,Rajasthan,Medium,"Wheat, Soybean"
+Soybean,Rajasthan,Medium,"Corn, Wheat"
+Rice,Rajasthan,Medium,Lentil
+Peanut,Rajasthan,Medium,"Barley, Wheat"
+Barley,Punjab,Medium,"Rice, Peanut"
+Barley,Punjab,Medium,Peanut
+Soybean,Uttar Pradesh,Medium,Wheat
+Corn,Rajasthan,Low,"Soybean, Wheat"
+Rice,Bihar,Medium,Lentil
+Lentil,Uttar Pradesh,Medium,Corn
+Peanut,Delhi,High,Wheat
+Barley,Bihar,Low,Peanut
+Sorghum,Delhi,High,"Chickpea, Soybean"
+Sorghum,Rajasthan,High,Soybean
+Corn,Delhi,Medium,"Wheat, Soybean"
+Lentil,Madhya Pradesh,High,Corn
+Peanut,Haryana,Low,"Wheat, Corn"
+Rice,Punjab,Medium,Barley
+Sorghum,Madhya Pradesh,High,Lentil
+Barley,Delhi,High,Rice
+Lentil,Delhi,Medium,Corn
+Sorghum,Mumbai,High,"Chickpea, Soybean"
+Sorghum,Delhi,Low,Chickpea
+Wheat,Madhya Pradesh,Medium,Lentil
+Sorghum,Bihar,Medium,Lentil
+Sorghum,Uttar Pradesh,High,"Lentil, Soybean"
+Corn,Haryana,Medium,"Wheat, Peanut"
+Peanut,Mumbai,Medium,Barley
+Rice,Madhya Pradesh,Medium,Lentil
+Corn,Rajasthan,High,"Wheat, Peanut"
+Sorghum,Mumbai,Low,Soybean
+Lentil,Rajasthan,Medium,Rice
+Sorghum,Madhya Pradesh,High,"Soybean, Lentil"
+Peanut,Rajasthan,High,Barley
+Rice,Punjab,Low,"Barley, Maize"
+Soybean,Punjab,High,Sorghum
+Lentil,Mumbai,Low,"Mustard, Rice"
+Soybean,Haryana,Medium,"Sorghum, Wheat"
+Barley,Rajasthan,High,Peanut
+Wheat,Rajasthan,Low,Pea
+Rice,Delhi,Low,Maize
+Corn,Haryana,Medium,"Wheat, Soybean"
+Barley,Delhi,High,"Rice, Mustard"
+Corn,Madhya Pradesh,Medium,Wheat
+Soybean,Madhya Pradesh,Low,"Corn, Wheat"
+Wheat,Delhi,High,Lentil
+Lentil,Delhi,High,Corn
+Rice,Uttar Pradesh,Medium,Barley
+Peanut,Mumbai,Medium,"Wheat, Barley"
+Rice,Bihar,Medium,Barley
+Wheat,Uttar Pradesh,Medium,Lentil
+Soybean,Uttar Pradesh,Low,"Wheat, Corn"
+Lentil,Rajasthan,Medium,Mustard
+Lentil,Mumbai,High,Corn
+Corn,Uttar Pradesh,Low,Peanut
+Lentil,Mumbai,Low,Corn
+Sorghum,Madhya Pradesh,High,"Soybean, Lentil"
+Sorghum,Mumbai,Medium,"Soybean, Chickpea"
+Barley,Haryana,Medium,Peanut
+Lentil,Mumbai,Medium,"Corn, Rice"
+Rice,Madhya Pradesh,Low,Barley
+Rice,Delhi,Medium,Maize
+Lentil,Mumbai,High,Mustard
+Rice,Bihar,Medium,"Barley, Lentil"
+Sorghum,Delhi,Low,Chickpea
+Lentil,Haryana,High,"Corn, Mustard"
+Soybean,Rajasthan,Low,Wheat
+Soybean,Mumbai,Medium,"Wheat, Sorghum"
+Sorghum,Mumbai,High,"Chickpea, Soybean"
+Lentil,Punjab,High,"Rice, Mustard"
+Sorghum,Delhi,Low,Chickpea
+Peanut,Uttar Pradesh,Low,Corn
+Barley,Haryana,Medium,Rice
+Rice,Uttar Pradesh,Low,Lentil
+Peanut,Uttar Pradesh,High,Corn
+Sorghum,Punjab,Medium,"Chickpea, Lentil"
+Rice,Uttar Pradesh,Low,"Lentil, Barley"
+Rice,Punjab,High,Barley
