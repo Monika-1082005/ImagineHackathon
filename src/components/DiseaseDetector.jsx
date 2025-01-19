@@ -23,7 +23,7 @@ const DiseaseDetector = () => {
 
   return (
     <div>
-      <h1>Plant Disease Detector</h1>
+      {/* <h1>Plant Disease Detector</h1> */}
       <Detection prediction={prediction} />
     </div>
   );

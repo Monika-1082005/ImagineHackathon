@@ -7,7 +7,7 @@ const navItems = [
   { name: 'Home', link: '/' },
   { name: 'Dashboard', link: '/dashboard' },
   { name: 'Detection', link: '/detection' },
-  { name: 'Consultation', link: '/consultation' },
+  { name: 'Consultation', link: '/chatbot' },
   { name: 'Crop Recommendation', link: '/cropbasedonsoil' }, // New section
   { name: 'Crop Rotation', link: '/croprotation' }, // New section
 ];

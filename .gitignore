@@ -22,3 +22,4 @@ backend/tf_model.h5
 *.njsproj
 *.sln
 *.sw?
+backend/env310
