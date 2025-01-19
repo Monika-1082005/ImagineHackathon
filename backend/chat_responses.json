@@ -1,0 +1,349 @@
+[
+    {
+        "question": "What is the crop cycle?",
+        "keywords": ["crop cycle", "farming stages"],
+        "answer": "The crop cycle typically involves stages like seed selection, sowing, irrigation, nutrient management, and harvesting."
+    },
+    {
+        "question": "What are the nutrient requirements for rice?",
+        "keywords": ["nutrient requirements", "rice nutrients"],
+        "answer": "Rice requires nitrogen, phosphorus, and potassium at different stages of growth. Would you like specifics for a crop?"
+    },
+    {
+        "question": "What nutrients are needed for wheat?",
+        "keywords": ["wheat nutrients"],
+        "answer": "For wheat, nitrogen is crucial during tillering, while phosphorus is essential for root development."
+    },
+    {
+        "question": "How do I manage pests in my crops?",
+        "keywords": ["pest management", "crop pests"],
+        "answer": "Effective pest management involves crop rotation, using resistant varieties, and applying safe pesticides as needed."
+    },
+    {
+        "question": "What is organic farming?",
+        "keywords": ["organic farming"],
+        "answer": "Organic farming avoids synthetic fertilizers and pesticides, focusing on natural methods like composting and crop rotation."
+    },
+    {
+        "question": "What is crop rotation?",
+        "keywords": ["crop rotation", "soil health"],
+        "answer": "Crop rotation involves growing different types of crops in the same area across seasons to improve soil fertility and reduce pests."
+    },
+    {
+        "question": "How do I test soil quality?",
+        "keywords": ["soil testing", "soil quality"],
+        "answer": "You can test soil quality by collecting a sample and analyzing it for pH, nutrient levels, and organic matter."
+    },
+    {
+        "question": "What is the best irrigation method for vegetables?",
+        "keywords": ["irrigation", "vegetable farming"],
+        "answer": "Drip irrigation is highly effective for vegetables as it provides water directly to the roots and reduces wastage."
+    },
+    {
+        "question": "How do I prevent waterlogging in my fields?",
+        "keywords": ["waterlogging", "field drainage"],
+        "answer": "To prevent waterlogging, ensure proper field drainage, use raised beds, and avoid over-irrigation."
+    },
+    {
+        "question": "What are the common diseases in tomato crops?",
+        "keywords": ["tomato diseases", "plant diseases"],
+        "answer": "Common diseases in tomatoes include blight, leaf curl virus, and powdery mildew. Regular monitoring and fungicides can help control them."
+    },
+    {
+        "question": "How often should I water paddy fields?",
+        "keywords": ["paddy irrigation", "rice farming","water"],
+        "answer": "Paddy fields require consistent water levels. Maintain standing water during early growth stages and drain before harvesting."
+    },
+    {
+        "question": "What is mulching in agriculture?",
+        "keywords": ["mulching", "weed control"],
+        "answer": "Mulching involves covering the soil with organic or inorganic materials to retain moisture, control weeds, and regulate soil temperature."
+    },
+    
+    {
+        "question": "Which fertilizers are suitable for maize crops?",
+        "keywords": ["maize fertilizers", "corn nutrients"],
+        "answer": "Maize requires nitrogen, phosphorus, and potassium. Apply nitrogen in split doses during early growth and tasseling stages."
+    },
+    {
+        "question": "How do I manage weeds in my crops?",
+        "keywords": ["weed control", "crop weeds"],
+        "answer": "Weed management involves manual weeding, herbicides, and practices like crop rotation and mulching."
+    },
+    {
+        "question": "What is intercropping?",
+        "keywords": ["intercropping", "mixed cropping"],
+        "answer": "Intercropping involves growing two or more crops together in the same field to maximize space and reduce pests."
+    },
+    {
+        "question": "How do I improve soil fertility naturally?",
+        "keywords": ["soil fertility", "natural methods"],
+        "answer": "You can improve soil fertility naturally by using compost, green manure, crop rotation, and adding organic matter."
+    },
+    {
+        "question": "What are the symptoms of nitrogen deficiency in crops?",
+        "keywords": ["nitrogen deficiency", "crop health"],
+        "answer": "Symptoms of nitrogen deficiency include yellowing of leaves, stunted growth, and poor crop yield."
+    },
+    {
+        "question": "How do I control fungal diseases in plants?",
+        "keywords": ["fungal diseases", "plant health"],
+        "answer": "Fungal diseases can be controlled by using fungicides, practicing crop rotation, and ensuring good air circulation."
+    },
+    {
+        "question": "What are the best practices for planting fruit trees?",
+        "keywords": ["fruit trees", "planting techniques"],
+        "answer": "Choose disease-resistant varieties, dig deep holes, and use organic compost during planting."
+    },
+    {
+        "question": "How do I choose the right seeds for my crops?",
+        "keywords": ["seed selection", "quality seeds"],
+        "answer": "Choose seeds that are certified, disease-resistant, and suitable for your local climate."
+    },
+    {
+        "question": "What is precision farming?",
+        "keywords": ["precision farming", "modern farming techniques"],
+        "answer": "Precision farming uses technology like GPS and sensors to optimize crop yields and resource use."
+    },
+    {
+        "question": "What is hydroponics?",
+        "keywords": ["hydroponics", "soil-less farming"],
+        "answer": "Hydroponics is a method of growing plants without soil, using nutrient-rich water instead."
+    },
+    {
+        "question": "How do I manage salinity in soil?",
+        "keywords": ["salinity", "soil management"],
+        "answer": "To manage soil salinity, apply gypsum, improve drainage, and use salt-tolerant crop varieties."
+    },
+    {
+        "question": "What are common pests in cotton crops?",
+        "keywords": ["cotton pests", "pest control"],
+        "answer": "Common pests in cotton include bollworms, aphids, and whiteflies. Use pest-resistant seeds and monitor fields regularly."
+    },
+    {
+        "question": "What are the advantages of crop diversification?",
+        "keywords": ["crop diversification", "farming benefits"],
+        "answer": "Crop diversification reduces risk, improves soil health, and provides multiple income sources for farmers."
+    },
+    {
+        "question": "What is integrated pest management (IPM)?",
+        "keywords": ["integrated pest management", "IPM"],
+        "answer": "IPM combines biological, cultural, and chemical methods to control pests while minimizing environmental impact."
+    },
+    {
+        "question": "What are the best practices for greenhouse farming?",
+        "keywords": ["greenhouse farming", "protected cultivation"],
+        "answer": "Best practices include monitoring temperature and humidity, using drip irrigation, and selecting suitable crops."
+    },
+    {
+        "question": "How do I store harvested crops?",
+        "keywords": ["crop storage", "post-harvest management"],
+        "answer": "Store crops in clean, dry, and pest-free facilities. Use airtight containers for grains to prevent spoilage."
+    },
+    {
+        "question": "What is zero tillage?",
+        "keywords": ["zero tillage", "conservation farming"],
+        "answer": "Zero tillage is a farming practice where seeds are directly sown into unplowed soil to reduce soil erosion and conserve moisture."
+    },
+    {
+        "question": "What are the common diseases in sugarcane crops?",
+        "keywords": ["sugarcane diseases"],
+        "answer": "Common diseases include red rot, smut, and wilt. Use disease-free planting material and rotate crops to prevent them."
+    },
+    {
+        "question": "How do I select the right fertilizer for my crops?",
+        "keywords": ["fertilizer selection", "crop nutrients"],
+        "answer": "Base your fertilizer choice on soil test results and crop nutrient requirements."
+    },
+    {
+        "question": "What are the benefits of cover crops?",
+        "keywords": ["cover crops", "soil improvement"],
+        "answer": "Cover crops prevent soil erosion, improve fertility, and reduce weed growth."
+    },
+        {
+            "question": "What is the crop cycle?",
+            "keywords": ["crop cycle", "farming stages"],
+            "answer": "The crop cycle typically involves stages like seed selection, sowing, irrigation, nutrient management, and harvesting."
+        },
+        {
+            "question": "What are the nutrient requirements for rice?",
+            "keywords": ["nutrient requirements", "rice nutrients"],
+            "answer": "Rice requires nitrogen, phosphorus, and potassium at different stages of growth. Would you like specifics for a crop?"
+        },
+        {
+            "question": "What nutrients are needed for wheat?",
+            "keywords": ["wheat nutrients"],
+            "answer": "For wheat, nitrogen is crucial during tillering, while phosphorus is essential for root development."
+        },
+        {
+            "question": "How do I manage pests in my crops?",
+            "keywords": ["pest management", "crop pests"],
+            "answer": "Effective pest management involves crop rotation, using resistant varieties, and applying safe pesticides as needed."
+        },
+        {
+            "question": "What is organic farming?",
+            "keywords": ["organic farming"],
+            "answer": "Organic farming avoids synthetic fertilizers and pesticides, focusing on natural methods like composting and crop rotation."
+        },
+        {
+            "question": "What is crop rotation?",
+            "keywords": ["crop rotation", "soil health"],
+            "answer": "Crop rotation involves growing different types of crops in the same area across seasons to improve soil fertility and reduce pests."
+        },
+        {
+            "question": "How do I test soil quality?",
+            "keywords": ["soil testing", "soil quality"],
+            "answer": "You can test soil quality by collecting a sample and analyzing it for pH, nutrient levels, and organic matter."
+        },
+        {
+            "question": "What is the best irrigation method for vegetables?",
+            "keywords": ["irrigation", "vegetable farming"],
+            "answer": "Drip irrigation is highly effective for vegetables as it provides water directly to the roots and reduces wastage."
+        },
+        {
+            "question": "How do I prevent waterlogging in my fields?",
+            "keywords": ["waterlogging", "field drainage"],
+            "answer": "To prevent waterlogging, ensure proper field drainage, use raised beds, and avoid over-irrigation."
+        },
+        {
+            "question": "What are the common diseases in tomato crops?",
+            "keywords": ["tomato diseases", "plant diseases"],
+            "answer": "Common diseases in tomatoes include blight, leaf curl virus, and powdery mildew. Regular monitoring and fungicides can help control them."
+        },
+        {
+            "question": "How often should I water paddy fields?",
+            "keywords": ["paddy irrigation", "rice farming","water"],
+            "answer": "Paddy fields require consistent water levels. Maintain standing water during early growth stages and drain before harvesting."
+        },
+        {
+            "question": "What is mulching in agriculture?",
+            "keywords": ["mulching", "weed control"],
+            "answer": "Mulching involves covering the soil with organic or inorganic materials to retain moisture, control weeds, and regulate soil temperature."
+        },
+        
+        {
+            "question": "Which fertilizers are suitable for maize crops?",
+            "keywords": ["maize fertilizers", "corn nutrients"],
+            "answer": "Maize requires nitrogen, phosphorus, and potassium. Apply nitrogen in split doses during early growth and tasseling stages."
+        },
+        {
+            "question": "How do I manage weeds in my crops?",
+            "keywords": ["weed control", "crop weeds"],
+            "answer": "Weed management involves manual weeding, herbicides, and practices like crop rotation and mulching."
+        },
+        {
+            "question": "What is intercropping?",
+            "keywords": ["intercropping", "mixed cropping"],
+            "answer": "Intercropping involves growing two or more crops together in the same field to maximize space and reduce pests."
+        },
+        {
+            "question": "How do I improve soil fertility naturally?",
+            "keywords": ["soil fertility", "natural methods"],
+            "answer": "You can improve soil fertility naturally by using compost, green manure, crop rotation, and adding organic matter."
+        },
+        {
+            "question": "What are the symptoms of nitrogen deficiency in crops?",
+            "keywords": ["nitrogen deficiency", "crop health"],
+            "answer": "Symptoms of nitrogen deficiency include yellowing of leaves, stunted growth, and poor crop yield."
+        },
+        {
+            "question": "How do I control fungal diseases in plants?",
+            "keywords": ["fungal diseases", "plant health"],
+            "answer": "Fungal diseases can be controlled by using fungicides, practicing crop rotation, and ensuring good air circulation."
+        },
+        {
+            "question": "What are the best practices for planting fruit trees?",
+            "keywords": ["fruit trees", "planting techniques"],
+            "answer": "Choose disease-resistant varieties, dig deep holes, and use organic compost during planting."
+        },
+        {
+            "question": "How do I choose the right seeds for my crops?",
+            "keywords": ["seed selection", "quality seeds"],
+            "answer": "Choose seeds that are certified, disease-resistant, and suitable for your local climate."
+        },
+        {
+            "question": "What is precision farming?",
+            "keywords": ["precision farming", "modern farming techniques"],
+            "answer": "Precision farming uses technology like GPS and sensors to optimize crop yields and resource use."
+        },
+        {
+            "question": "What is hydroponics?",
+            "keywords": ["hydroponics", "soil-less farming"],
+            "answer": "Hydroponics is a method of growing plants without soil, using nutrient-rich water instead."
+        },
+        {
+            "question": "How do I manage salinity in soil?",
+            "keywords": ["salinity", "soil management"],
+            "answer": "To manage soil salinity, apply gypsum, improve drainage, and use salt-tolerant crop varieties."
+        },
+        {
+            "question": "What are common pests in cotton crops?",
+            "keywords": ["cotton pests", "pest control"],
+            "answer": "Common pests in cotton include bollworms, aphids, and whiteflies. Use pest-resistant seeds and monitor fields regularly."
+        },
+        {
+            "question": "What are the advantages of crop diversification?",
+            "keywords": ["crop diversification", "farming benefits"],
+            "answer": "Crop diversification reduces risk, improves soil health, and provides multiple income sources for farmers."
+        },
+        {
+            "question": "What is integrated pest management (IPM)?",
+            "keywords": ["integrated pest management", "IPM"],
+            "answer": "IPM combines biological, cultural, and chemical methods to control pests while minimizing environmental impact."
+        },
+        {
+            "question": "What are the best practices for greenhouse farming?",
+            "keywords": ["greenhouse farming", "protected cultivation"],
+            "answer": "Best practices include monitoring temperature and humidity, using drip irrigation, and selecting suitable crops."
+        },
+        {
+            "question": "How do I store harvested crops?",
+            "keywords": ["crop storage", "post-harvest management"],
+            "answer": "Store crops in clean, dry, and pest-free facilities. Use airtight containers for grains to prevent spoilage."
+        },
+        {
+            "question": "What is zero tillage?",
+            "keywords": ["zero tillage", "conservation farming"],
+            "answer": "Zero tillage is a farming practice where seeds are directly sown into unplowed soil to reduce soil erosion and conserve moisture."
+        },
+        {
+            "question": "What are the common diseases in sugarcane crops?",
+            "keywords": ["sugarcane diseases"],
+            "answer": "Common diseases include red rot, smut, and wilt. Use disease-free planting material and rotate crops to prevent them."
+        },
+        {
+            "question": "How do I select the right fertilizer for my crops?",
+            "keywords": ["fertilizer selection", "crop nutrients"],
+            "answer": "Base your fertilizer choice on soil test results and crop nutrient requirements."
+        },
+        {
+            "question": "What are the benefits of cover crops?",
+            "keywords": ["cover crops", "soil improvement"],
+            "answer": "Cover crops prevent soil erosion, improve fertility, and reduce weed growth."
+        },
+        {
+            "question": "What is agriculture?",
+            "keywords": ["agriculture", "farming", "definition"],
+            "answer": "Agriculture is the practice of cultivating soil, growing crops, and raising livestock for food, fiber, and other products."
+        },
+        {
+            "question": "How much water is required for farming?",
+            "keywords": ["water requirement", "irrigation", "farming water"],
+            "answer": "Water requirements vary depending on the crop. For example, rice typically needs around 2,500 liters of water per kilogram, while wheat requires around 1,500 liters per kilogram."
+        },
+        {
+            "question": "Which crops are suitable for the winter season?",
+            "keywords": ["winter crops", "seasonal farming", "cold season"],
+            "answer": "Crops like wheat, barley, peas, mustard, and spinach are suitable for the winter season as they thrive in cooler temperatures."
+        },
+        {
+            "question": "Which crops grow best in the summer season?",
+            "keywords": ["summer crops", "hot season", "farming"],
+            "answer": "Crops like maize, millet, cotton, and sugarcane grow well in the summer season due to their heat tolerance."
+        },
+        {
+            "question": "How does water availability affect crop selection?",
+            "keywords": ["water availability", "crop selection", "irrigation"],
+            "answer": "Water availability determines which crops can be grown. Crops like rice need abundant water, while crops like millet and sorghum are drought-resistant and require less water."
+    }    
+]
