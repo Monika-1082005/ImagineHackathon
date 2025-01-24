@@ -11,21 +11,24 @@ import CropBasedOnSoil from './components/CropBasedOnSoil';
 import CropRotation from './components/CropRotation';
 import Chatbot from './components/Chatbot';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import PropTypes from 'prop-types';
+import PropTypes from 'prop-types'; // Import PropTypes
 
 // Layout Component for common structure
-const Layout = ({ children }) => (
-  <>
-    <Navbar />
-    <div className="pt-20">{children}</div>
-    <Footer />
-  </>
-);
-
+const Layout = ({ children }) => {
+  return (
+    <>
+      <Navbar />
+      <div className="pt-20"> {/* Increased padding to prevent overlap */}
+        {children}
+      </div>
+      <Footer />
+    </>
+  );
+};
 
 // PropTypes for Layout component
 Layout.propTypes = {
-  children: PropTypes.node.isRequired,
+  children: PropTypes.node.isRequired, // Ensures that children is required and of type node
 };
 
 function App() {
