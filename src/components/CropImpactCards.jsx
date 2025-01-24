@@ -72,7 +72,7 @@ const CropImpactCard = ({
         <div className="lg:grid grid-cols-3 lg:h-full shadow-[0_0px_50px_-15px_#354340] rounded-xl">
           <div className="flex flex-col justify-center items-center text-stone-900 bg-stone-100 rounded-t-xl lg:rounded-tr-none lg:rounded-l-xl h-full">
             {/* Updated Title - vertically centered */}
-            <h2 className="text-5xl lg:text-6xl font-bold text-center leading-tight">
+            <h2 className="text-3xl lg:text-5xl font-bold text-center leading-tight">
               {title.split(" ").map((word, index) => (
                 <span key={index} className="block">{word}</span>
               ))}
@@ -123,15 +123,15 @@ const CropImpactCards = () => {
       ref={containerRef}
       className="w-screen relative rounded-t-3xl py-10 lg:py-20"
       style={{
-        background:
-          "url('/noise.png'), linear-gradient(#2e8b57, #228b22, #7cfc00)",
+        // background:
+        //   "url('/noise.png'), linear-gradient(#2e8b57, #228b22, #7cfc00)",
         backgroundRepeat: "round",
         backgroundBlendMode: "multiply",
       }}
     >
       <div className="flex justify-center items-center sticky top-0">
         {/* Display the "Crop Impacts" text as normal without any wave effect */}
-        <h1 className="text-xl lg:text-[40px] text-white font-bold uppercase">
+        <h1 className="text-xl lg:text-[40px] text-black font-bold uppercase">
         Global Warming: Silent War on Agriculture
         </h1>
       </div>

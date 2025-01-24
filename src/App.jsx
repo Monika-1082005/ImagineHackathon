@@ -11,85 +11,34 @@ import CropBasedOnSoil from './components/CropBasedOnSoil';
 import CropRotation from './components/CropRotation';
 import Chatbot from './components/Chatbot';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import PropTypes from 'prop-types';
+
+// Layout Component for common structure
+const Layout = ({ children }) => (
+  <>
+    <Navbar />
+    <div className="pt-20">{children}</div>
+    <Footer />
+  </>
+);
+
+
+// PropTypes for Layout component
+Layout.propTypes = {
+  children: PropTypes.node.isRequired,
+};
 
 function App() {
   return (
     <Router>
-      <Navbar />
-      {/* Add padding-top to create space below the Navbar */}
-      <div className="pt-16">
-        <Routes>
-          <Route
-            path="/"
-            element={
-              <>
-                <div className="mt-8 mx-auto max-w-5xl">
-                  <Hero />
-                  <Process />
-                  <CropImpactCards />
-                  <Testimonials />
-                </div>
-                <Footer />
-              </>
-            }
-          />
-          <Route
-            path="/detection"
-            element={
-              <>
-                {/* <div className="mt-8 mx-auto max-w-5xl"> */}
-                  <DiseaseDetector />
-                {/* </div> */}
-                <Footer />
-              </>
-            }
-          />
-          <Route
-            path="/chatbot"
-            element={
-              <>
-                <div className="mt-8 mx-auto max-w-5xl">
-                  <Chatbot />
-                </div>
-                <Footer />
-              </>
-            }
-          />
-          <Route
-            path="/dashboard"
-            element={
-              <>
-                <div className="mt-8 mx-auto max-w-5xl min-h-screen">
-                  <Dashboard />
-                </div>
-                <Footer />
-              </>
-            }
-          />
-          <Route
-            path="/cropbasedonsoil"
-            element={
-              <>
-                <div className="mt-8 mx-auto max-w-5xl">
-                  <CropBasedOnSoil />
-                </div>
-                <Footer />
-              </>
-            }
-          />
-          <Route
-            path="/croprotation"
-            element={
-              <>
-                <div className="mt-8 mx-auto max-w-5xl">
-                  <CropRotation />
-                </div>
-                <Footer />
-              </>
-            }
-          />
-        </Routes>
-      </div>
+      <Routes>
+        <Route path="/" element={<Layout><Hero /><Process /><CropImpactCards /><Testimonials /></Layout>} />
+        <Route path="/detection" element={<Layout><DiseaseDetector /></Layout>} />
+        <Route path="/chatbot" element={<Layout><Chatbot /></Layout>} />
+        <Route path="/cropbasedonsoil" element={<Layout><CropBasedOnSoil /></Layout>} />
+        <Route path="/croprotation" element={<Layout><CropRotation /></Layout>} />
+        <Route path="/dashboard" element={<Layout><Dashboard /></Layout>} />
+      </Routes>
     </Router>
   );
 }

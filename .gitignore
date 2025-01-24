@@ -7,11 +7,14 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Node modules and build directories
 node_modules
 dist
 dist-ssr
 *.local
-backend/tf_model.h5
+# Large files and directories
+env310
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -22,4 +25,3 @@ backend/tf_model.h5
 *.njsproj
 *.sln
 *.sw?
-backend/env310

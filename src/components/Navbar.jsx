@@ -1,15 +1,15 @@
 import { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { FaBars, FaTimes } from 'react-icons/fa';
-import logo from '../images/logo.png'; // Ensure this path is correct
-
+import logo from '../images/logo.png';
+import GoogleTranslate from './GoogleTranslate';
 const navItems = [
   { name: 'Home', link: '/' },
-  { name: 'Dashboard', link: '/dashboard' },
   { name: 'Detection', link: '/detection' },
   { name: 'Consultation', link: '/chatbot' },
-  { name: 'Crop Recommendation', link: '/cropbasedonsoil' }, // New section
-  { name: 'Crop Rotation', link: '/croprotation' }, // New section
+  { name: 'Crop Recommendation', link: '/cropbasedonsoil' },
+  { name: 'Crop Rotation', link: '/croprotation' },
+  { name: 'Dashboard', link: '/dashboard' },
 ];
 
 const Navbar = () => {
@@ -25,13 +25,13 @@ const Navbar = () => {
             <img
               src={logo}
               alt="Logo"
-              className="h-24 w-32 object-contain" // Adjust height but maintain aspect ratio
+              className="h-24 w-32 object-contain"
             />
           </Link>
         </div>
 
         {/* Desktop menu */}
-        <div className="hidden md:flex flex-grow justify-center">
+        <div className="hidden md:flex flex-grow items-center">
           <ul className="flex space-x-8">
             {navItems.map((item, index) => (
               <li key={index} className="my-2">
@@ -48,6 +48,11 @@ const Navbar = () => {
               </li>
             ))}
           </ul>
+
+          {/* Google Translate Component */}
+          <div className="ml-12">
+            <GoogleTranslate />
+          </div>
         </div>
 
         {/* Hamburger for mobile */}
@@ -72,6 +77,10 @@ const Navbar = () => {
                   </Link>
                 </li>
               ))}
+              {/* Google Translate in mobile */}
+              <div className="mt-4">
+                <GoogleTranslate />
+              </div>
             </ul>
           </div>
         )}
