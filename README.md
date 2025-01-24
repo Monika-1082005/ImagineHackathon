@@ -33,7 +33,7 @@
 -Regional language support for broader adoption.
 
 ---
-![Watch the Prototype]()
+![Watch the Prototype](WhatsApp Video 2025-01-24 at 22.30.32_01a4281f.mp4)
 ---
 
 ## **Tech Stack**  
