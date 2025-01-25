@@ -1,6 +1,6 @@
 # PlantBuddy: Tackling Agricultural Challenges with AIML  
 
-## **Problem Statement**  
+## **Problem Statement** 
 - 🌾 **Delayed & Inaccurate Disease Detection**: Adversely affects crop health and yield.  
 - 🤷‍♂️ **Lack of Expert Guidance**: Leads to ineffective treatment and economic loss.  
 - 🔗 **No Integrated System**: No seamless platform for disease diagnosis, treatment recommendations, and expert consultations.  
