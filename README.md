@@ -29,7 +29,7 @@
   - Past years' yield and production trends.  
   - Crop distribution and yearly trends.  
   - Correlation of production with rainfall patterns.
-
+### 🗨️ **Multilingual Support**: Regional language support for broader adoption.  
 ---
 
 ## **Tech Stack**  
@@ -50,6 +50,4 @@
 1️⃣ **IoT Integration**: Real-time monitoring of soil health, temperature, and moisture using smart sensors.  
 2️⃣ **Mobile App Development**: Expanding accessibility with an intuitive mobile application for farmers.  
 3️⃣ **Government & Agri-Scheme Integration**: Connecting farmers with subsidies, policies, and financial aid programs.  
-4️⃣ **Multilingual Support**: Regional language support for broader adoption.  
-
 ---
