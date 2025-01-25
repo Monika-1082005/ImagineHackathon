@@ -29,8 +29,6 @@
   - Past years' yield and production trends.  
   - Crop distribution and yearly trends.  
   - Correlation of production with rainfall patterns.
-### 🗨️ **Multilingual Support**
--Regional language support for broader adoption.
 
 ---
 
