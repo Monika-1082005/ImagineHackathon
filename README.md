@@ -46,8 +46,20 @@
 
 ---
 
-## **📌 Future Scope**  
+## 📽️ **Project Demo**  
+Take a closer look at how PlantBuddy works with this demo video showcasing:  
+- The disease detection process in action.  
+- Smart crop advice generation based on user input.  
+- The chatbot facilitating expert consultation.  
+- Insights provided on the dashboard.
+  
+[Watch the Demo Video](https://1drv.ms/v/c/06b59257948be3b0/ERiuoQC-aNRLn4iLlWgKmrgBQ-Qigq8oiPrRF7T9vwz5Kw?e=dcaeIc)
+
+---
+
+## 📌**Future Scope** 
 1️⃣ **IoT Integration**: Real-time monitoring of soil health, temperature, and moisture using smart sensors.  
 2️⃣ **Mobile App Development**: Expanding accessibility with an intuitive mobile application for farmers.  
 3️⃣ **Government & Agri-Scheme Integration**: Connecting farmers with subsidies, policies, and financial aid programs.  
+
 ---
